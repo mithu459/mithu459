@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Mithun Raj 👋
 
-<!--
-**mithu459/mithu459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Electronics and Communication Engineering (ECE) Student
+- 💡 Interested in Embedded Systems, Hardware Design, and Networking
+- 💻 Passionate about Python, Image Processing, and IoT Projects
+- 📡 Learning Networking, VLSI Basics, and Edge Computing
+- 🚀 Always exploring new technologies and building practical projects
 
-Here are some ideas to get you started:
+🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded Systems
+- Python Programming
+- Image Processing (OpenCV)
+- Networking Basics
+- IoT Projects
+- C Programming
+- Arduino / Microcontroller
